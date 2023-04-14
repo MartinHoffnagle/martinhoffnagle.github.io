@@ -2,122 +2,58 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Education
 
-[Link to another page](./another-page.html).
+## Rochester Institute of Technology, BS/MS in Computer Engineering (3.73 GPA)
 
-There should be whitespace between paragraphs.
+Master's Thesis: Quantum Acceleration of Linear Regression for Artificial Neural Networks
+Co-authored and presented a paper on hybrid quantum-classical machine learning at the 2022 IEEE International Conference on Computer Design
+  Accelerating the training of single-layer binary neural networks using the HHL quantum algorithm
+  https://arxiv.org/abs/2210.12707
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Experience
 
-# Header 1
+## Hard Drive R&D Engineering Intern at Western Digital
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+05/2022 - 08/2022
+Predicted HDD thermal changes using input, output signal processing and transfer functions – Matlab data collection and analysis of hard drive metrics to determine wear and touchdowns
 
-## Header 2
+## Systems Integration and Engineering Coop at Intel
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+05/2021 - 08/2021
+Maintained and improved an internal product health tracking tool by developing Python scripts with regular expressions for automation and web scraping
+Researched and developed natural language processing tools for internal testing software
 
-### Header 3
+## Software Developer at Waygate Technologies
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+05/2020 - 10/2020
+Developed software to allow an operator to analyze data from a system of sensors in real time
+Full stack development using the .NET Framework with SQLite databases, UI elements, and peak detection algorithms
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Firmware and Software Developer at Fraunhofer Institute for Electronic Nano Systems
 
-#### Header 4
+06/2019 - 08/2019
+Developed an iOS and Android app to connect to, display, and graph data from a Bluetooth Low Energy device in real time
+Developed firmware in C for a low power SoC to broadcast sensor data over Bluetooth Low Energy
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Projects
 
-##### Header 5
+## Multi-Processor Ray Tracer
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Implemented message-passing in C++ to accelerate ray tracing by effectively utilizing multiple processors on a SLURM system
 
-###### Header 6
+## SoccerNet Multi-Object Tracker
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Implemented a multi-object tracker to track the position of soccer players on a soccer pitch – Used a Faster R-CNN detector, MARS feature encoder, and DeepSort tracker
 
-### There's a horizontal rule below this.
+## Quantum Convolutional Neural Network
 
-* * *
+Implemented a quantum circuit to apply a quantum convolutional filter for a neural network to improve image classification
 
-### Here is an unordered list:
+## Graphics Card Optimized Hough Transform
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Programmed the line detecting algorithm Hough Transform for a Nvidia GPU using CUDA and C to increase performance by over 20x compared to a standard CPU implementation
 
-### And an ordered list:
+## MIPS Microprocessor
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Designed and implemented a reduced instruction set computer in VHDL and wrote a program to calculate the first ten digits of the Fibonacci sequence
