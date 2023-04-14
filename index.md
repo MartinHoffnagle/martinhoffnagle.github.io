@@ -4,67 +4,81 @@ layout: default
 
 # Education
 
-## Rochester Institute of Technology, BS/MS in Computer Engineering (3.73 GPA)
+### Rochester Institute of Technology
+### Bachelor's of Science and Master's of Science in Computer Engineering
 
-Master's Thesis: Quantum Acceleration of Linear Regression for Artificial Neural Networks
+08/2018 - 05/2023
 
-Co-authored and presented a paper on hybrid quantum-classical machine learning at the 2022 IEEE International Conference on Computer Design
-
-Accelerating the training of single-layer binary neural networks using the HHL quantum algorithm
-> https://arxiv.org/abs/2210.12707
+> 3.73 GPA
+> 
+> Master's Thesis: Quantum Acceleration of Linear Regression for Artificial Neural Networks  
+> 
+> Co-authored and presented a paper on hybrid quantum-classical machine learning at the 2022 IEEE International Conference on Computer Design  
+>
+>> [Accelerating the training of single-layer binary neural networks using the HHL quantum algorithm](https://arxiv.org/abs/2210.12707)
 
 # Experience
 
-## Hard Drive R&D Engineering Intern at Western Digital
+### Hard Drive R&D Engineering Intern at Western Digital
 
 05/2022 - 08/2022
 
-Predicted HDD thermal changes using input, output signal processing and transfer functions
+> Predicted HDD thermal changes using input, output signal processing and transfer functions
+>
+> Matlab data collection and analysis of hard drive metrics to determine wear and touchdowns
 
-Matlab data collection and analysis of hard drive metrics to determine wear and touchdowns
-
-## Systems Integration and Engineering Coop at Intel
+### Systems Integration and Engineering Coop at Intel
 
 05/2021 - 08/2021
 
-Maintained and improved an internal product health tracking tool by developing Python scripts with regular expressions for automation and web scraping
+> Maintained and improved an internal product health tracking tool by developing Python scripts with regular expressions for automation and web scraping
+>
+> Researched and developed natural language processing tools for internal testing software
 
-Researched and developed natural language processing tools for internal testing software
-
-## Software Developer at Waygate Technologies
+### Software Developer at Waygate Technologies
 
 05/2020 - 10/2020
 
-Developed software to allow an operator to analyze data from a system of sensors in real time
+> Developed software to allow an operator to analyze data from a system of sensors in real time
+>
+> Full stack development using the .NET Framework with SQLite databases, UI elements, and peak detection algorithms
 
-Full stack development using the .NET Framework with SQLite databases, UI elements, and peak detection algorithms
-
-## Firmware and Software Developer at Fraunhofer Institute for Electronic Nano Systems
+### Firmware and Software Developer at Fraunhofer Institute for Electronic Nano Systems
 
 06/2019 - 08/2019
 
-Developed an iOS and Android app to connect to, display, and graph data from a Bluetooth Low Energy device in real time
-
-Developed firmware in C for a low power SoC to broadcast sensor data over Bluetooth Low Energy
+> Developed an iOS and Android app to connect to, display, and graph data from a Bluetooth Low Energy device in real time
+> 
+> Developed firmware in C for a low power SoC to broadcast sensor data over Bluetooth Low Energy
 
 # Projects
 
-## Multi-Processor Ray Tracer
+### Multi-Processor Ray Tracer
 
-Implemented message-passing in C++ to accelerate ray tracing by effectively utilizing multiple processors on a SLURM system
+11/2021 - 12/2021
 
-## SoccerNet Multi-Object Tracker
+> Implemented message-passing in C++ to accelerate ray tracing by effectively utilizing multiple processors on a SLURM system
 
-Implemented a multi-object tracker to track the position of soccer players on a soccer pitch – Used a Faster R-CNN detector, MARS feature encoder, and DeepSort tracker
+### SoccerNet Multi-Object Tracker
 
-## Quantum Convolutional Neural Network
+10/2022 - 12/2022
 
-Implemented a quantum circuit to apply a quantum convolutional filter for a neural network to improve image classification
+> Implemented a multi-object tracker to track the position of soccer players on a soccer pitch – Used a Faster R-CNN detector, MARS feature encoder, and DeepSort tracker
 
-## Graphics Card Optimized Hough Transform
+### Quantum Convolutional Neural Network
 
-Programmed the line detecting algorithm Hough Transform for a Nvidia GPU using CUDA and C to increase performance by over 20x compared to a standard CPU implementation
+03/2022 - 05/2022
 
-## MIPS Microprocessor
+> Implemented a quantum circuit to apply a quantum convolutional filter for a neural network to improve image classification
 
-Designed and implemented a reduced instruction set computer in VHDL and wrote a program to calculate the first ten digits of the Fibonacci sequence
+### Graphics Card Optimized Hough Transform
+
+11/2021 - 12/2021
+
+> Programmed the line detecting algorithm Hough Transform for a Nvidia GPU using CUDA and C to increase performance by over 20x compared to a standard CPU implementation
+
+### MIPS Microprocessor
+
+01/2020 - 04/2020
+
+> Designed and implemented a reduced instruction set computer in VHDL and wrote a program to calculate the first ten digits of the Fibonacci sequence
