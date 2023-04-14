@@ -5,7 +5,7 @@ layout: default
 # Education
 
 ### Rochester Institute of Technology
-### Bachelor's of Science and Master's of Science in Computer Engineering
+#### Bachelor's of Science and Master's of Science in Computer Engineering
 
 08/2018 - 05/2023
 
@@ -63,7 +63,9 @@ layout: default
 
 10/2022 - 12/2022
 
-> Implemented a multi-object tracker to track the position of soccer players on a soccer pitch – Used a Faster R-CNN detector, MARS feature encoder, and DeepSort tracker
+> Implemented a multi-object tracker to track the position of soccer players on a soccer pitch
+> 
+> Used a Faster R-CNN detector, MARS feature encoder, and DeepSort tracker
 
 ### Quantum Convolutional Neural Network
 
