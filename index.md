@@ -19,7 +19,8 @@ layout: default
 
 # Experience
 
-### Hard Drive R&D Engineering Intern at Western Digital
+### Western Digital
+#### Hard Drive R&D Engineering Intern
 
 05/2022 - 08/2022
 
@@ -27,7 +28,8 @@ layout: default
 >
 > Matlab data collection and analysis of hard drive metrics to determine wear and touchdowns
 
-### Systems Integration and Engineering Coop at Intel
+### Intel
+#### Systems Integration and Engineering Coop
 
 05/2021 - 08/2021
 
@@ -35,7 +37,8 @@ layout: default
 >
 > Researched and developed natural language processing tools for internal testing software
 
-### Software Developer at Waygate Technologies
+### Waygate Technologies
+#### Full Stack Software Developer
 
 05/2020 - 10/2020
 
@@ -43,7 +46,8 @@ layout: default
 >
 > Full stack development using the .NET Framework with SQLite databases, UI elements, and peak detection algorithms
 
-### Firmware and Software Developer at Fraunhofer Institute for Electronic Nano Systems
+### Fraunhofer Institute for Electronic Nano Systems
+#### Firmware and Software Developer
 
 06/2019 - 08/2019
 
