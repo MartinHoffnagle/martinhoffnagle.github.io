@@ -57,7 +57,7 @@ layout: default
 
 # Featured Projects
 
-[All Projects](./projects.html).
+[All Projects](./projects.html)
 
 ### Multi-Processor Ray Tracer
 
