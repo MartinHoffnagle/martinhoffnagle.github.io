@@ -97,7 +97,7 @@ Academically, I have gained research experience writing my thesis on quantum com
 
 02/2021 - 04/2021
 
-> Wrote firmware to implement autonomous steering, braking, and acceleration %to race a kit car
+> Wrote firmware to implement autonomous steering, braking, and acceleration to race a kit car
 >
 > Used timers, PWM, and ADC to interface with the car motors and line scan camera
 
