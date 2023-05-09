@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# About Me
+
+I am a 2023 graduate earning Bachelor's and Master's degrees in computer engineer.
+Through coops, I have gained industry experience in full stack development, data analysis, and sensor systems.
+Academically, I have gained research experience writing my thesis on quantum computing for machine learning and presenting a paper I co-authored at the 2022 IEEE International Conference on Computer Design. As a computer engineer, I took a wide range of courses including high level software engineering, digital electronics, and C/C++ for both general programs and embedded systems. I took several graduate courses on deep learning and programing for CPU/GPU architectures. With many project focused courses, I have developed experience implementing course material and collaborating with my peers including interdisciplinary teams.
+
 # Education
 
 ### Rochester Institute of Technology
