@@ -25,6 +25,11 @@ Academically, I have gained research experience writing my thesis on quantum com
 
 # Experience
 
+### GEOST
+#### High Performance Computing Software Engineer
+
+06/2023 - Current
+
 ### Western Digital
 #### Hard Drive R&D Engineering Intern
 
