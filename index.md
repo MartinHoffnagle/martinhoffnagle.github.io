@@ -5,7 +5,7 @@ layout: default
 # About Me
 
 I am a 2023 graduate earning Bachelor's and Master's degrees in computer engineer.
-Through coops, I have gained industry experience in full stack development, data analysis, and sensor systems.
+Through coops, I have gained industry experience in full stack development, data analysis, and embedded systems.
 Academically, I have gained research experience writing my thesis on quantum computing for machine learning and presenting a paper I co-authored at the 2022 IEEE International Conference on Computer Design. As a computer engineer, I took a wide range of courses including high level software engineering, digital electronics, and C/C++ for both general programs and embedded systems. I took several graduate courses on deep learning and programing for CPU/GPU architectures. With many project focused courses, I have developed experience implementing course material and collaborating with my peers including interdisciplinary teams.
 
 # Education
@@ -25,10 +25,21 @@ Academically, I have gained research experience writing my thesis on quantum com
 
 # Experience
 
+### Cisco
+#### Embedded Software Engineer
+
+09/2024 - Current
+
+> Enabled automated library regression testing by developing embedded simulators and establishing Jenkins pipelines
+
 ### GEOST
 #### High Performance Computing Software Engineer
 
-06/2023 - Current
+06/2023 - 06/2024
+
+> Developed embedded applications, a camera interface, and a FPGA interface for flight soft- ware to capture, process, and store images
+> 
+> Used the REST API to connect frontend, SQL database, and algorithm microservices
 
 ### Western Digital
 #### Hard Drive R&D Engineering Intern
